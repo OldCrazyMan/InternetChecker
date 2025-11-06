@@ -1,1 +1,9 @@
-"MainMessage" = "To testing:\n\n1. Minimize the app\n2. Toggle internet connection\n3. Check Xcode console";
+"MainMessage" = "For testing:";
+"MainCheckMessage" = "1. Minimize the app\n2. Turn internet on/off\n3. Check the console in Xcode";
+"checking_status" = "Checking connection status...";
+"connected_via" = "Connected via %@";
+"not_connected" = "No internet connection";
+"wifi" = "Wi-Fi";
+"cellular" = "Cellular";
+"ethernet" = "Ethernet";
+"unknown" = "Unknown";
